@@ -1,7 +1,5 @@
 # linuxcommands
 
-Mar 13, 2018 12:33 PM (Added on Tue, 13 Mar 2018 12:33 PM)
--------------------------------------------------------------------
 Install apache web server 
 ========================================
 sudo apt-get install apache2
